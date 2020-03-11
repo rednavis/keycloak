@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/rednavis/keycloak.svg?branch=master)](https://travis-ci.com/rednavis/keycloak)
+<!--[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7d36295503574b40bb06bd4975dc40f6)](https://app.codacy.com/gh/rednavis/maas-shared?utm_source=github.com&utm_medium=referral&utm_content=rednavis/maas-shared&utm_campaign=Badge_Grade_Settings)-->
+[![codecov](https://codecov.io/gh/rednavis/keycloak/branch/master/graph/badge.svg)](https://codecov.io/gh/rednavis/keycloak)
+
 # keycloak
 
 ## Install Keycloak
@@ -15,6 +19,7 @@ Copy **keycloak.mv.db** to **keycloak/standalone/data/**
 ## User pages
 http://localhost:8180/auth/realms/public-library/account/
 ```
+admin / admin
 irma.pince / irma
 sheldon.cooper / sheldon
 ```
